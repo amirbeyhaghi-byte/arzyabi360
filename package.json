@@ -1,0 +1,12 @@
+{
+  "name": "arzyabi",
+  "version": "1.0.0",
+  "description": "سامانه ارزیابی عملکرد 360 درجه",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
